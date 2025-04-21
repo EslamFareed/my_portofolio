@@ -16,89 +16,109 @@ class CertificateModel {
 
 List<CertificateModel> certificateList = [
   CertificateModel(
-    name: 'Getting started with Flutter Development',
-    organization: 'Coursera',
-    date: 'AUG 2023',
-    skills: 'Flutter . Dart',
-    credential:  'https://www.coursera.org/account/accomplishments/certificate/HQ4LFHSF4LKZ',
+    name: 'Senior Mobile Application Developer',
+    organization: 'AMK LLC',
+    date: '3/2025 - present',
+    skills: 'Web sockets . Notifications . Google Maps . Web Flutter',
+    credential: '',
   ),
   CertificateModel(
-    name: 'Flutter Essential Training: Build for Multiple Platforms',
-    organization: 'LinkedIn',
-    date: 'JUL 2023',
+    name: 'Senior Mobile Application Developer',
+    organization: 'Shahm4',
+    date: '1/2025 - 3/2025',
+    skills: 'Web sockets . Notifications . Google Maps . Pusher . Firebase',
+    credential: '',
+  ),
+  CertificateModel(
+    name: 'Mobile Application Developer // Part Time',
+    organization: 'TEJOORY',
+    date: '1/2024 - 1/2025',
     skills: 'Flutter . iOS Development . Android Development',
-    credential:  'https://www.linkedin.com/learning/certificates/450fc4e2f495726aea50a067caf586869ccf0cb92ebcc5a4c7b5648a95754a8f',
+    credential: '',
   ),
   CertificateModel(
-    name: 'Complete Dart Learning',
-    organization: 'Udemy',
-    date: 'JUN 2023',
-    skills: 'Flutter . Dart . Programming',
-    credential:  'https://www.udemy.com/certificate/UC-5b01c756-0d20-4342-94e6-9d5860d1c95e/',
+    name: 'Mobile Application Instructor',
+    organization: 'AMIT',
+    date: '1/2023 - 1/2024',
+    skills:
+        'Flutter . iOS Development . Android Development . UI/UX . Firebase . Web Sockets . Notifications . Local Storage . Google Maps . Localizations',
+    credential: '',
   ),
   CertificateModel(
-    name: 'Flutter REST Movie App',
-    organization: 'Udemy',
-    date: 'AUG 2023',
-    skills: 'Flutter . Rest API\'s . Cloud',
-    credential:  'https://www.udemy.com/certificate/UC-22efc7ca-3df5-4f26-8025-4a1bd2672f19/',
+    name: 'Mobile Application Instructor // Part Time',
+    organization: 'AMKEEN - Code Academy Oman',
+    date: '7/2023 - 10/2023',
+    skills:
+        'Flutter . iOS Development . Android Development . UI/UX . Firebase . Web Sockets . Notifications . Local Storage . Google Maps . Localizations',
+    credential: '',
   ),
   CertificateModel(
-    name: 'Modularizing and Organizing Flutter Code',
-    organization: 'LinkedIn',
-    date: 'JUL 2023',
-    skills: 'Flutter . Clean Architecture',
-    credential:  'https://www.linkedin.com/learning/certificates/686276fa42629d4f1291da79ea46bfde0222954b60297a2e728c770768f23407',
+    name: 'Mobile Application Instructor // Part Time',
+    organization: 'Efada Academy',
+    date: '1/2022 - 1/2023',
+    skills:
+        'Flutter . iOS Development . Android Development . UI/UX . Firebase . Web Sockets . Notifications . Local Storage . Google Maps . Localizations',
+    credential: '',
   ),
   CertificateModel(
-    name: 'Powering Your App with Live Web Data',
-    organization: 'LinkedIn',
-    date: 'JUL 2023',
-    skills: 'Flutter . Dart . Firebase . API\'s',
-    credential:  'https://www.linkedin.com/learning/certificates/643f05463ae529f24bd9ea66a6ead9a20469bdb875a9ddda048c698eda3ee7c1',
+    name: 'Mobile Application Instructor // Part Time',
+    organization: 'KIMIT',
+    date: '1/2022 - 1/2023',
+    skills:
+        'Flutter . iOS Development . Android Development . UI/UX . Firebase . Web Sockets . Notifications . Local Storage . Google Maps . Localizations',
+    credential: '',
   ),
   CertificateModel(
-    name: 'Firebase Cloud Firestore',
-    organization: 'LinkedIn',
-    date: 'JUL 2023',
-    skills: 'Flutter . Dart . Firebase . FireStore',
-    credential:  'https://www.linkedin.com/learning/certificates/8f8be25531d2bcdbab1972482150277f9a239a13ba4d314c0574638bf28d07d2',
+    name: 'Mobile Application Instructor // Part Time',
+    organization: 'RAYA Academy',
+    date: '1/2022 - 1/2023',
+    skills:
+        'Flutter . iOS Development . Android Development . UI/UX . Firebase . Web Sockets . Notifications . Local Storage . Google Maps . Localizations',
+    credential: '',
   ),
+
   CertificateModel(
-    name: 'Android App Security',
-    organization: 'LinkedIn',
-    date: 'JUL 2023',
-    skills: 'Pentesting . Android App',
-    credential:  'https://www.linkedin.com/learning/certificates/1c6581b35d06edfbd6275d09e84b068e813880bf7d217b703716962d7aca3518',
+    name: 'Mobile Application Developer',
+    organization: 'CAD',
+    date: '1/2022 - 1/2023',
+    skills:
+        'Flutter . UI/UX . Firebase . Notifications . Local Storage . Google Maps . Localizations',
+    credential: '',
   ),
+
   CertificateModel(
-    name: 'Foundations of Cybersecurity',
-    organization: 'Grow with Google on Coursera',
-    date: 'JUL 2023',
-    skills: 'Ethical Hacking . Linux . Cyber Security ',
-    credential:  'https://coursera.org/share/67e5cb0dd7c478f1d7ec81079c3a40b8',
+    name: 'Mobile Application Developer',
+    organization: 'Intouch POS',
+    date: '1/2020 - 1/2022',
+    skills:
+        'Flutter . iOS Development . Android Development . UI/UX . Firebase . Web Sockets . Notifications . Local Storage . Google Maps . Localizations',
+    credential: '',
   ),
+
   CertificateModel(
-    name: 'HTML, CSS, and Javascript for Web Developers',
-    organization: 'JUL Coursera',
-    date: 'JUL 2023',
-    skills: 'HTML . CSS . JS . Web Development',
-    credential:  'https://coursera.org/share/67e5cb0dd7c478f1d7ec81079c3a40b8',
+    name: 'Database Builder',
+    organization: 'Circuit-One',
+    date: '9/2019 - 1/2020',
+    skills:
+        'Data base building . Data base management . Data base design . Data base analysis',
+    credential: '',
   ),
+
   CertificateModel(
-    name: 'Network Defense Essentials (NDE)',
-    organization: 'EC-Council',
-    date: 'JUL 2023',
-    skills: 'Cyber Security . Networking ',
-    credential:  'https://codered.eccouncil.org/certificate/43a2d2a7-40ed-4230-9e65-a9aa0935e651?logged=false',
+    name: 'Mobile Android Developer',
+    organization: 'Toedu',
+    date: '10/2017 - 9/2019',
+    skills:
+        'Android Development . UI/UX . Firebase . Web Sockets . Notifications . Local Storage . Google Maps . Localizations',
+    credential: '',
   ),
 
-
-
-
-
-
-
-
-
+  CertificateModel(
+    name: 'Mobile Android Developer',
+    organization: 'Al Horeya For Shipping',
+    date: '10/2016 - 10/2017',
+    skills:
+        'Android Development . UI/UX . Firebase . Web Sockets . Notifications . Local Storage . Google Maps . Localizations',
+    credential: '',
+  ),
 ];

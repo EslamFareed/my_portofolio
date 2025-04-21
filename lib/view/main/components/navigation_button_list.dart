@@ -46,7 +46,7 @@ class NavigationButtonList extends StatelessWidget {
                     curve: Curves.easeIn,
                   );
                 },
-                text: 'Certifications',
+                text: 'Experience',
               ),
               // NavigationTextButton(onTap: () {}, text: 'Achievements'),
             ],
